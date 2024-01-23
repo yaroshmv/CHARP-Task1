@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Марина\\OneDrive\\Рабочий стол\\CHARP\\Lesson1\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\Users\\Марина\\OneDrive\\Рабочий стол\\CHARP1\\Lesson1\\Task1\\Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "C:\\Users\\Марина\\OneDrive\\Рабочий стол\\CHARP\\Lesson1\\Task1\\Task1.csproj",
+      "projectPath": "C:\\Users\\Марина\\OneDrive\\Рабочий стол\\CHARP1\\Lesson1\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\Марина\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Марина\\OneDrive\\Рабочий стол\\CHARP\\Lesson1\\Task1\\obj\\",
+      "outputPath": "C:\\Users\\Марина\\OneDrive\\Рабочий стол\\CHARP1\\Lesson1\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Марина\\AppData\\Roaming\\NuGet\\NuGet.Config"
