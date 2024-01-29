@@ -9,4 +9,4 @@ System.Console.WriteLine(arr[1]);
 System.Console.WriteLine(arr[2]);
 System.Console.WriteLine(arr[3]);
 System.Console.WriteLine(arr[4]);
-System.Console.WriteLine(arr[5]);
+//System.Console.WriteLine(arr[5]);
