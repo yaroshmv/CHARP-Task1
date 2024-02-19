@@ -1,5 +1,5 @@
 ﻿//Задача 1: Задайте значения M и N. Напишите программу, которая выведет все натуральные числа в промежутке от M до N. Использовать рекурсию, не использовать циклы.
-void PrintRange(int n, int m = 4)
+void PrintRange(int n, int m)
 {
     if (m > n)
     {
@@ -9,5 +9,4 @@ void PrintRange(int n, int m = 4)
     System.Console.Write($"{m} ");
     PrintRange(n, m + 1);
 }
-PrintRange(8);
-PrintRange(4);
+PrintRange(8, 4);
